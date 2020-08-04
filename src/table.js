@@ -5,7 +5,7 @@ import Button from 'part:@sanity/components/buttons/default';
 import Preview from 'part:@sanity/base/preview'
 import {EditIcon} from 'react-icons/md';
 import {FormBuilderInput} from 'part:@sanity/form-builder'
-import PopOver from 'part:@sanity/components/dialogs/fullscreen';
+import PopOver from 'part:@sanity/components/dialogs/popover';
 import DialogContent from 'part:@sanity/components/dialogs/content';
 
 
