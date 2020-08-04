@@ -1,4 +1,4 @@
-import RowsInput from 'part:@ssfbank/sanity-plugin-byo-table/rows-input';
+import RowsInput from 'part:@davidpdd/sanity-plugin-byo-table/rows-input';
 
 export default {
   title: 'Table',
