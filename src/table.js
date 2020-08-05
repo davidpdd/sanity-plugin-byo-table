@@ -15,7 +15,7 @@ const Table = ({ rows, updateStringCell, onEvent, removeColumn, removeRow, table
   const [activeObjectEdit, setActiveObjectEdit] = useState(null);
 
   const cellType = {
-    icon: EditIcon,
+    icon: MdEdit,
     ...propCellType
   };
   // Button to remove row
